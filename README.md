@@ -1,4 +1,3 @@
-
 ![Logo](https://github-readme-stats.vercel.app/api?username=Siddharth-Chandel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
@@ -16,30 +15,20 @@ I'm an aspiring full stack data scientist...
 
 ## 🛠 Skills
 - Python
-- Flask
-- SQL
-- Statistic
-- Artificial Intelligence
-- Machine Learning
-- ML Model Cloud Deployment
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
+- Database
 - Data Science
-- Feature Engineering
-- Web Scrapping
+- Cloud Computing
 - Automation
-- Streamlit
-- Power BI
+- Linux
 
 
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm a student...
 
-🧠 I'm currently learning Data Science...
+🧠 I'm currently practicing Data Science...
 
-👯‍♀️ I'm looking to collaborate on real projects...
+👯‍♀️ I'm looking to do collaboration on real-life projects...
 
 🤔 I'm looking for help for getting internships...
 
