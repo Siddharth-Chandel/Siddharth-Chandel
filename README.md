@@ -40,7 +40,7 @@ Here are some of my key projects:
 5. **Conversational AI Model**: Built with LSTM and attention mechanisms.  
 6. **Dashboards in Power BI**: Created detailed visualizations for financial analysis.  
 
-Explore more on my [GitHub repositories](https://github.com/Siddharth-Chandel).
+Explore more on my [GitHub repositories](https://github.com/Siddharth-Chandel?tab=repositories).
 
 ---
 
