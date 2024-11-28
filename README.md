@@ -1,38 +1,75 @@
-# Hi, I'm Siddharth Chandel! 👋
+# 💻 Siddharth Chandel | Data Scientist | AI Enthusiast
 
+Hello! I'm **Siddharth Chandel**, a passionate **Data Scientist** with a strong interest in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **AI-driven solutions**. I enjoy exploring the intersection of data science, technology, and business to build impactful projects. Currently, I'm working at **Synex.ai** and actively contributing to open-source communities and **TensorFlow User Group (TFUG) Jalandhar** initiatives.
 
-## 🚀 About Me
-I'm an aspiring full stack data scientist...
+---
 
+## 🔍 About Me
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Siddharth-Chandel)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-chandel-001097245)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Siddharth0890)
+- 🎓 **Education**: Pursuing B.Tech at **Lovely Professional University** | CGPA: **8.0**  
+- 📍 **Location**: Jalandhar, India (Semester exchange in Australia from Feb 2025 to July 2025)  
+- 🏢 **Professional Experience**:
+  - **Technical Team Member** at TensorFlow User Group Jalandhar 
+  - **Data Scientist** at Synex.ai  
+  - **ML Intern** at InternsElite  
+  - **JPMorgan Chase Job Simulation** via Forage  
+- 📚 **Specialization**: NLP (Certified by DeepLearning.AI)  
+- 🏆 **Organizations**: Member of **TensorFlow User Group (TFUG) Jalandhar**, Core Member of **Synex**
 
-## 🛠 Skills
-- Python
-- Database
-- Data Science
-- Cloud Computing
-- Automation
-- Linux
+---
 
+## 🔧 Skills & Expertise
 
+- **Programming**: Python, C, C++, Java  
+- **Data & ML Tools**: TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask, Streamlit, Docker  
+- **Data Visualization**: Tableau, Power BI  
+- **Databases**: SQL, MongoDB, NoSQL  
+- **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning  
+- **Specialized Areas**: Algorithmic Trading, Financial Analysis, UMAP for dimensionality reduction  
 
-## Other Common Github Profile Sections
-👩‍💻 I'm a student...
+---
 
-🧠 I'm currently practicing Data Science...
+## 🚀 Projects
 
-👯‍♀️ I'm looking to do collaboration on real-life projects...
+Here are some of my key projects:  
 
-🤔 I'm looking for help for getting internships...
+1. **Mystyle**: A body shape classification and recommendation web app.  
+2. **Sign Language Interpreter**: A CV project for translating sign language into text.  
+3. **Credit Card Fraud Detection**: Implemented with a neural network and deployed using Streamlit.  
+4. **Forex Price Prediction**: Leveraged Transformer models with RL (TD3).  
+5. **Conversational AI Model**: Built with LSTM and attention mechanisms.  
+6. **Dashboards in Power BI**: Created detailed visualizations for financial analysis.  
 
-💬 Ask me about my field related queries...
+Explore more on my [GitHub repositories](https://github.com/Siddharth-Chandel).
 
-📫 You can reach me through mail...
+---
 
-😄 Mr.
+## 🌟 Community Involvement
 
-⚡️ Young enthusiast with learning attitude...
+- **TensorFlow User Group (TFUG)**:  
+  I actively participate in organizing events under TFUG, such as **Code Beyond Limits**, to educate students about TensorFlow and related technologies.  
+
+---
+
+## 🌱 Currently Working On
+
+- **Forex Trading Bot**: Combining Transformer models, RL (TD3), and sentiment analysis.  
+- **Advanced NLP Techniques**: Fine-tuning models like BERT and GPT.  
+- **Hackathon Participation**: Collaborative AI/ML projects.  
+
+---
+
+## 🏋️‍♂️ Personal Goals
+
+I'm focused on achieving a balance between my **professional growth** and **personal health**. Currently, I’m working on:  
+- Advancing my knowledge in AI and machine learning.  
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddharth-chandel-001097245)  
+- 📧 Email: siddharthchandel2004@gmail.com  
+- 📱 Phone: +91 88474-19799  
+
+Feel free to explore my work, share feedback, or collaborate on exciting projects!  
